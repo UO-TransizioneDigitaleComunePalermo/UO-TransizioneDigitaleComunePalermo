@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Ciro Spataro](https://cirospat.readthedocs.io/), working at @UO-TransizioneDigitaleComunePalermo
+- 👋 Hi, I’m [Ciro Spataro](https://docs.google.com/document/d/e/2PACX-1vTS_FESxQJB1TvgtEaaiqRUND0Hmn2ZxXUGYAebH4oFvvDFwwqXF6zjT7yjzgfERBYlkDk2lHUj3mTK/pub), working at @UO-TransizioneDigitaleComunePalermo
 - 👀 I’m interested in digital services of public institutions
 - 🌱 I’m currently learning YAML, MD, PY, HTML, RTD, ... (who knows one day what could I do...)
 - 💞️ I’m looking to collaborate on differente projects for digitalization of Comune di Palermo public services according to the [**Piano triennale dell'Informatica**](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/2020-2022/index.html)
